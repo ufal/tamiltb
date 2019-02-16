@@ -10,8 +10,8 @@ Loganathan Ramasamy, the author of the original treebank, is no longer a member 
 ## Contents of this package
 
     data/
-        ./TamilTB.v0.1.treex - Dependency treebank in Treex format
-        ./TamilTB.v0.1.conll - Dependency treebank in CoNLL-X format
+        ./tamiltb.treex - Dependency treebank in Treex format
+        ./tamiltb.conll - Dependency treebank in CoNLL-X format
         ./train.conll - First 400 sentences / 6329 tokens of the treebank, intended for training of models
         ./dev.conll   - Next   80 sentences / 1263 tokens of the treebank, intended for development and tuning
         ./test.conll  - Last  120 sentences / 1989 tokens of the treebank, intended for testing of models
