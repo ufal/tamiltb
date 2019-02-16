@@ -410,7 +410,7 @@
 6	uRuppinar	uRuppinar	N	NNN-3SH--	Cas=N|Per=3|Num=S|Gen=H	8	Atr	_	_
 7	en.	en.	N	NEN-3SN--	Cas=N|Per=3|Num=S|Gen=N	8	Atr	_	_
 8	varaTarAjan	varaTarAjan	N	NEN-3SH--	Cas=N|Per=3|Num=S|Gen=H	34	Atr_M	_	_
-9	,	,	Z	Z:-------	_	47	AuxX	_	_
+9	,	,	Z	Z:-------	_	34	AuxX	_	_
 10	mAwila	mAwilam	N	NO--3SN--	Per=3|Num=S|Gen=N	12	Atr	_	_
 11	ceyaRkuzu	ceyaRkuzu	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	12	Atr	_	_
 12	uRuppinarkaL	uRuppinar	N	NNN-3PA--	Cas=N|Per=3|Num=P|Gen=A	14	Atr	_	_

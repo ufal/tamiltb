@@ -586,7 +586,7 @@
 1	iT	iTu	R	RpN-3SN--	Cas=N|Per=3|Num=S|Gen=N	3	Atr	_	_
 2	E	E	T	Tk-------	_	1	AuxZ	_	_
 3	carvEyil	carvE	N	NEL-3SN--	Cas=L|Per=3|Num=S|Gen=N	25	AAdjn	_	_
-4	,	,	Z	Z:-------	_	7	AuxX	_	_
+4	,	,	Z	Z:-------	_	3	AuxX	_	_
 5	’	’	Z	Z:-------	_	11	AuxG	_	_
 6	aTikam	aTikam	Q	QQ-------	_	7	Atr	_	_
 7	wEcikkap	wEci	V	Vu-T---AA	Ten=T|Voi=A|Neg=A	8	AComp	_	_
@@ -1935,9 +1935,9 @@
 2	uTavi	uTavi	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	3	Atr	_	_
 3	Atciyar	Atciyar	N	NNN-3SH--	Cas=N|Per=3|Num=S|Gen=H	4	AComp	_	_
 4	Aka	Aku	T	Tg-------	_	11	AComp	_	_
-5	(	(	Z	Z:-------	_	3	AuxG	_	_
+5	(	(	Z	Z:-------	_	6	AuxG	_	_
 6	payiRci	payiRci	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	3	Atr	_	_
-7	)	)	Z	Z:-------	_	3	AuxG	_	_
+7	)	)	Z	Z:-------	_	6	AuxG	_	_
 8	TanaTu	Tan	R	RhG-3SA--	Cas=G|Per=3|Num=S|Gen=A	10	Atr	_	_
 9	ai.E.eS.	ai.E.eS.	N	NEN-3SN--	Cas=N|Per=3|Num=S|Gen=N	10	Atr	_	_
 10	paNiyaiT	paNi	N	NNA-3SN--	Cas=A|Per=3|Num=S|Gen=N	11	Obj	_	_
@@ -3544,9 +3544,9 @@
 4	,	,	Z	Z:-------	_	9	AuxX	_	_
 5	veLiwAttu	veLiwAtu	N	NO--3SN--	Per=3|Num=S|Gen=N	6	Atr	_	_
 6	pErAciriyarkaL	pErAciriyar	N	NNN-3PA--	Cas=N|Per=3|Num=P|Gen=A	7	Atr_M	_	_
-7	maRRum	maRRum	C	CC-------	_	9	Coord	_	_
+7	maRRum	maRRum	C	CC-------	_	9	Coord_M	_	_
 8	mANavarkaL	mANavar	N	NNN-3PA--	Cas=N|Per=3|Num=P|Gen=A	7	Atr_M	_	_
-9	,	,	Z	Z:-------	_	14	AuxX	_	_
+9	,	,	Z	Z:-------	_	14	Coord	_	_
 10	puTiya	puTiya	J	JJ-------	_	13	Atr	_	_
 11	wuzaivuT	wuzaivu	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	13	Atr	_	_
 12	TErvu	TErvu	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	13	Atr	_	_

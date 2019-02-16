@@ -1668,7 +1668,7 @@
 6	pOril	pOr	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	8	AAdjn	_	_
 7	rANuvam	rANuvam	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	8	Sb	_	_
 8	veRRi	veRRi	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	0	Pred	_	_
-9	peRRaTu	peRu	V	VR-D3SNAA	Ten=D|Per=3|Num=S|Gen=N|Voi=A|Neg=A	8	AuxA	_	_
+9	peRRaTu	peRu	V	VR-D3SNAA	Ten=D|Per=3|Num=S|Gen=N|Voi=A|Neg=A	8	AuxV	_	_
 10	.	.	Z	Z#-------	_	0	AuxK	_	_
 
 1	iwTa	iwTa	D	DD-------	_	2	AuxA	_	_
@@ -1891,7 +1891,7 @@
 12	maTTiya	maTTiya	J	JJ-------	_	13	Atr	_	_
 13	amaiccar	amaiccar	N	NNN-3SH--	Cas=N|Per=3|Num=S|Gen=H	21	Atr_M	_	_
 14	um	um	T	Tv-------	_	13	AuxZ	_	_
-15	,	,	Z	Z:-------	_	25	AuxX	_	_
+15	,	,	Z	Z:-------	_	21	AuxX	_	_
 16	ai.wA.	ai.wA.	N	NEN-3SN--	Cas=N|Per=3|Num=S|Gen=N	17	Atr	_	_
 17	amaipputan	amaippu	N	NNS-3SN--	Cas=S|Per=3|Num=S|Gen=N	20	Atr	_	_
 18	pala	pala	J	JJ-------	_	19	Atr	_	_
