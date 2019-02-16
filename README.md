@@ -15,7 +15,6 @@ Loganathan Ramasamy, the author of the original treebank, is no longer a member 
 	./TamilTB.v0.1.conll - Dependency treebank in CoNLL-X format
 	./train.conll - First 480 sentences / 7592 tokens of the treebank, intended for training of models
 	./test.conll - Last 120 sentences / 1989 tokens of the treebank, intended for testing of models
-	./TamilTB.v0.1.tt - Words, POS tags and lemmas from the treebank in the vertical format expected by the TnT tagger
     doc/
 	./index.html - Documentation for the treebank data
 	...
@@ -31,15 +30,6 @@ Use tmttred for viewing TamilTB.v0.1.tmt.
 ## CoNLL Format
 
 CoNLL format is provided mainly to use machine learning parsers to train the parsing models for Tamil
-
-
-## POS Tagged Corpora
-
-The POS tagged corpora can be used to train the machine learning taggers. The data follows the TnT format.
-
-The first column contains the wordform.
-The second column contains the POS tag.
-The third column contains the lemma.
 
 
 ## License
