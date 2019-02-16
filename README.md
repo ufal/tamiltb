@@ -10,7 +10,6 @@ Loganathan Ramasamy, the author of the original treebank, is no longer a member 
 ## Contents of this package
 
     data/
-	./TamilTB.v0.1.tmt - Dependency treebank in TMT format
 	./TamilTB.v0.1.treex - Dependency treebank in Treex format
 	./TamilTB.v0.1.conll - Dependency treebank in CoNLL-X format
 	./train.conll - First 480 sentences / 7592 tokens of the treebank, intended for training of models
@@ -21,17 +20,16 @@ Loganathan Ramasamy, the author of the original treebank, is no longer a member 
     README.md - This file
 
 
-## TMT Format
+## Treex Format
 
-Dependency trees can be viewed/modified using tree editor [TrEd](https://ufal.mff.cuni.cz/tred).
-Use tmttred for viewing TamilTB.v0.1.tmt.
+Dependency trees can be viewed/modified using tree editor [TrEd](https://ufal.mff.cuni.cz/tred) with the EasyTreex extension.
 
 
 ## CoNLL Format
 
-CoNLL format is provided mainly to use machine learning parsers to train the parsing models for Tamil
+CoNLL format is provided mainly to use machine learning tools to train and test tagging and parsing models. It is created automatically from the Treex version, which is the master file.
 
 
 ## License
 
-TamilTB.v0.1 by Institute of Formal and Applied Linguistics (ÚFAL) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+TamilTB.v0.1 by Institute of Formal and Applied Linguistics (ÚFAL) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
