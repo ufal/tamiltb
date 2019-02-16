@@ -39,7 +39,7 @@
 3	vimAnap	vimAnam	N	NO--3SN--	Per=3|Num=S|Gen=N	4	Atr	_	_
 4	pOkkuvaraTTil	pOkkuvaraTTu	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	5	AComp	_	_
 5	ERpattu	ERpatu	V	Vt-T---AA	Ten=T|Voi=A|Neg=A	7	Atr	_	_
-6	varum	varu	J	Jd-F----A	Ten=F|Neg=A	5	AuxV	_	_
+6	varum	varu	J	Jd-F----A	Ten=F|Neg=A	7	Atr	_	_
 7	vaLarcciyaik	vaLarcci	N	NNA-3SN--	Cas=A|Per=3|Num=S|Gen=N	9	Obj	_	_
 8	karuTTil	karuTTu	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	9	AComp	_	_
 9	koNtu	koL	V	Vt-T---AA	Ten=T|Voi=A|Neg=A	27	AAdjn	_	_
