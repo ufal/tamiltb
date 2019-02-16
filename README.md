@@ -1,34 +1,27 @@
 # TamilTB
 
+This package contains a morphologically and syntactically (dependency) annotated corpus for Tamil. There are 600 sentences (trees) and 9581 tokens (non-root nodes).
+
 The static copy in /net/data/TamilTB has not been touched since 2013. It apparently corresponds to the release 0.1. Since then, the Universal Dependencies conversion has been the more visible version of the corpus. However, we should be able to fix errors in the original Prague-style annotation.
 
 Loganathan Ramasamy, the author of the original treebank, is no longer a member of ÚFAL. This repository has been started by Dan Zeman, based on the release 0.1.
 
-The README of TamilTB 0.1 follows.
-
-# Tamil Dependency Treebank v0.1
-
-This package contains the syntactically (dependency) annotated corpora for Tamil.
 
 ## Contents of this package
 
-	data/
-		./TamilTB.v0.1.tmt - Dependency treebank in TMT format
-		./TamilTB.v0.1.tmt.conll - Dependency treebank in CoNLL format
-		./TamilTB.v0.1.tt - TnT style POS tagged corpora
-	doc/
-		./index.html - Documentation for the treebank data
-		...
-		...
-		...
-		...
+    data/
+	./TamilTB.v0.1.tmt - Dependency treebank in TMT format
+	./TamilTB.v0.1.conll - Dependency treebank in CoNLL-X format
+	./TamilTB.v0.1.tt - Words, POS tags and lemmas from the treebank in the vertical format expected by the TnT tagger
+    doc/
+	./index.html - Documentation for the treebank data
+	...
     README.md - This file
 
 
 ## TMT Format
 
-Dependency trees can be viewed/modified using tree editor TrEd.
-
+Dependency trees can be viewed/modified using tree editor [TrEd](https://ufal.mff.cuni.cz/tred).
 Use tmttred for viewing TamilTB.v0.1.tmt.
 
 
@@ -44,6 +37,7 @@ The POS tagged corpora can be used to train the machine learning taggers. The da
 The first column contains the wordform.
 The second column contains the POS tag.
 The third column contains the lemma.
+
 
 ## License
 
