@@ -116,7 +116,7 @@
 13	wilaiyaTTukku	wilaiyam	N	NND-3SN--	Cas=D|Per=3|Num=S|Gen=N	15	Obj	_	_
 14	pATippu	pATippu	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	15	Obj	_	_
 15	ERpatum	ERpatu	J	Jd-F----A	Ten=F|Neg=A	16	AdjAtr	_	_
-16	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	28	AuxC	_	_
+16	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	28	AAdjn	_	_
 17	aTimuka	aTimuka	N	NEN-3SN--	Cas=N|Per=3|Num=S|Gen=N	19	Atr	_	_
 18	poTuc	poTu	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	19	Atr	_	_
 19	ceyalALar	ceyalALar	N	NNN-3SH--	Cas=N|Per=3|Num=S|Gen=H	20	Atr	_	_
@@ -144,7 +144,7 @@
 10	atippatai	atippatai	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	11	Atr	_	_
 11	urimaikaLaip	urimai	N	NNA-3PN--	Cas=A|Per=3|Num=P|Gen=N	12	Obj	_	_
 12	paRikkum	paRi	J	Jd-F----A	Ten=F|Neg=A	13	AdjAtr	_	_
-13	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	14	AuxC	_	_
+13	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	14	AComp	_	_
 14	uLLaTAl	uL	V	VzLT3SNAA	Cas=L|Ten=T|Per=3|Num=S|Gen=N|Voi=A|Neg=A	24	AAdjn	_	_
 15	aTai	aTu	R	RpA-3SN--	Cas=A|Per=3|Num=S|Gen=N	16	Obj	_	_
 16	Tirumpap	Tirumpu	V	Vu-T---AA	Ten=T|Voi=A|Neg=A	19	Obj	_	_
@@ -210,7 +210,7 @@
 11	akaTikaL	akaTi	N	NNN-3PA--	Cas=N|Per=3|Num=P|Gen=A	12	AComp	_	_
 12	Aka	Aku	P	PP-------	_	13	AuxP	_	_
 13	mARRukinRa	mARRu	J	Jd-P----A	Ten=P|Neg=A	14	AdjAtr	_	_
-14	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	28	AuxC	_	_
+14	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	28	AAdjn	_	_
 15	,	,	Z	Z:-------	_	28	AuxX	_	_
 16	maTTiyil	maTTi	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	17	AComp	_	_
 17	ALum	ALu	J	Jd-F----A	Ten=F|Neg=A	22	AdjAtr	_	_
@@ -367,7 +367,7 @@
 10	atippatai	atippatai	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	11	Atr	_	_
 11	urimaikaLaip	urimai	N	NNA-3PN--	Cas=A|Per=3|Num=P|Gen=N	12	Obj	_	_
 12	paRikkum	paRi	J	Jd-F----A	Ten=F|Neg=A	13	AdjAtr	_	_
-13	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	14	AuxC	_	_
+13	vakaiyil	vakai	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	14	AComp	_	_
 14	amaiwT	amai	V	Vt-T---AA	Ten=T|Voi=A|Neg=A	0	Pred	_	_
 15	uLLaTu	uL	V	VR-T3SNAA	Ten=T|Per=3|Num=S|Gen=N|Voi=A|Neg=A	14	AuxV	_	_
 16	.	.	Z	Z#-------	_	0	AuxK	_	_
@@ -3162,7 +3162,7 @@
 3	accuRuTTal	accuRuTTal	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	6	Atr	_	_
 4	um	um	T	Tv-------	_	3	AuxZ	_	_
 5	illai	il	V	Vr-T3PNAA	Ten=T|Per=3|Num=P|Gen=N|Voi=A|Neg=A	3	AuxV	_	_
-6	enkiRa	en	J	Jd-P----A	Ten=P|Neg=A	7	AuxC	_	_
+6	enkiRa	en	J	Jd-P----A	Ten=P|Neg=A	7	Atr	_	_
 7	mutivukku	mutivu	N	NND-3SN--	Cas=D|Per=3|Num=S|Gen=N	8	AComp	_	_
 8	vawTa	vA	J	Jd-D----A	Ten=D|Neg=A	9	AdjAtr	_	_
 9	piRakE	piRaku	T	Tn-------	_	13	AuxC	_	_
