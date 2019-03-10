@@ -5872,9 +5872,9 @@
 10	iraNtu	iraNtu	U	Ux-------	_	11	Atr	_	_
 11	cetkaLaiy	cet	N	NEA-3PN--	Cas=A|Per=3|Num=P|Gen=N	19	Obj	_	_
 12	um	um	T	Tv-------	_	11	AuxZ	_	_
-13	22-20	22-20	U	Ux-------	_	16	Atr	_	_
-14	,	,	Z	Z:-------	_	19	AuxX	_	_
-15	21-13	21-13	U	Ux-------	_	16	Atr	_	_
+13	22-20	22-20	U	Ux-------	_	14	Atr_M	_	_
+14	,	,	Z	Z:-------	_	16	Coord	_	_
+15	21-13	21-13	U	Ux-------	_	14	Atr_M	_	_
 16	enRa	en	T	Td-D----A	Ten=D|Neg=A	18	Atr	_	_
 17	puLLik	puLLi	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	18	Atr	_	_
 18	kaNakkil	kaNakku	N	NNL-3SN--	Cas=L|Per=3|Num=S|Gen=N	19	AAdjn	_	_
@@ -5984,8 +5984,8 @@
 2	varukaikku	varukai	N	NND-3SN--	Cas=D|Per=3|Num=S|Gen=N	4	Obj	_	_
 3	eTirppuT	eTirppu	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	4	Obj	_	_
 4	TeriviTTu	Terivi	V	Vt-T---AA	Ten=T|Voi=A|Neg=A	23	AAdjn	_	_
-5	maTimuka	maTimuka	N	NEN-3SN--	Cas=N|Per=3|Num=S|Gen=N	8	Atr	_	_
-6	,	,	Z	Z:-------	_	23	AuxX	_	_
+5	maTimuka	maTimuka	N	NEN-3SN--	Cas=N|Per=3|Num=S|Gen=N	13	Atr_M	_	_
+6	,	,	Z	Z:-------	_	13	AuxX	_	_
 7	vituTalaic	vituTalai	N	NNN-3SN--	Cas=N|Per=3|Num=S|Gen=N	8	Atr	_	_
 8	ciRuTTaikaL	ciRuTTai	N	NNN-3PN--	Cas=N|Per=3|Num=P|Gen=N	13	Atr_M	_	_
 9	,	,	Z	Z:-------	_	13	AuxX	_	_
